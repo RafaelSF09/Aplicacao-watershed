@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\watershed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\watershed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\marcadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\marcadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\transformadadistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\transformadadistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\passos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:passos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\passos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:passos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\preprocessamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\preprocessamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\filtromorfologico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\filtromorfologico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\eds\\fila\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\eds\\fila\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\eds\\fila\\nofila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\eds\\fila\\nofila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\eds\\fila\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\eds\\fila\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|c:\\users\\rafae\\onedrive\\anexos\\facudade\\termo6\\ttc\\trabalhos\\watershed\\watershedapp\\classes\\eds\\pilha\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B89F1-F732-26FA-535D-1088EEA8B5D6}|watershedAPP.csproj|solutionrelative:classes\\eds\\pilha\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Passos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\Passos.cs",
+              "RelativeDocumentMoniker": "Passos.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\Passos.cs [Projeto]",
+              "RelativeToolTip": "Passos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T22:46:45.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Passos.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\Passos.cs",
+              "RelativeDocumentMoniker": "Passos.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\Passos.cs",
+              "RelativeToolTip": "Passos.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T22:49:16.406Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\FormPrincipal.cs [Projeto]",
+              "RelativeToolTip": "FormPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T13:51:23.811Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAApwK8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T13:51:32.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Watershed.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\Watershed.cs",
+              "RelativeDocumentMoniker": "classes\\Watershed.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\Watershed.cs",
+              "RelativeToolTip": "classes\\Watershed.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAuwM4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T13:57:28.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marcadores.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\Marcadores.cs",
+              "RelativeDocumentMoniker": "classes\\Marcadores.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\Marcadores.cs",
+              "RelativeToolTip": "classes\\Marcadores.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwF4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:37:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FiltroMorfologico.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\FiltroMorfologico.cs",
+              "RelativeDocumentMoniker": "classes\\FiltroMorfologico.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\FiltroMorfologico.cs",
+              "RelativeToolTip": "classes\\FiltroMorfologico.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:47:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransformadaDistancia.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\TransformadaDistancia.cs",
+              "RelativeDocumentMoniker": "classes\\TransformadaDistancia.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\TransformadaDistancia.cs",
+              "RelativeToolTip": "classes\\TransformadaDistancia.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:43:08.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Fila\\Info.cs",
+              "RelativeDocumentMoniker": "classes\\EDs\\Fila\\Info.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Fila\\Info.cs",
+              "RelativeToolTip": "classes\\EDs\\Fila\\Info.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:28:47.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pilha.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Pilha\\Pilha.cs",
+              "RelativeDocumentMoniker": "classes\\EDs\\Pilha\\Pilha.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Pilha\\Pilha.cs",
+              "RelativeToolTip": "classes\\EDs\\Pilha\\Pilha.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:18:44.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fila.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Fila\\Fila.cs",
+              "RelativeDocumentMoniker": "classes\\EDs\\Fila\\Fila.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Fila\\Fila.cs",
+              "RelativeToolTip": "classes\\EDs\\Fila\\Fila.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAnwFAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:35:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoFila.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Fila\\NoFila.cs",
+              "RelativeDocumentMoniker": "classes\\EDs\\Fila\\NoFila.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\EDs\\Fila\\NoFila.cs",
+              "RelativeToolTip": "classes\\EDs\\Fila\\NoFila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:35:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pixel.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\Pixel.cs",
+              "RelativeDocumentMoniker": "classes\\Pixel.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\Pixel.cs",
+              "RelativeToolTip": "classes\\Pixel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T18:00:53.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreProcessamento.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\PreProcessamento.cs",
+              "RelativeDocumentMoniker": "classes\\PreProcessamento.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Anexos\\facudade\\termo6\\TTC\\Trabalhos\\watershed\\watershedAPP\\classes\\PreProcessamento.cs",
+              "RelativeToolTip": "classes\\PreProcessamento.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAkwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T13:53:26.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
