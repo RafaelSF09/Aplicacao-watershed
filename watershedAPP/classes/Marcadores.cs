@@ -76,7 +76,7 @@ namespace watershedAPP.classes
                     pilhaX.Push(x);
                     pilhaY.Push(y + 1);
                 }
-                if (x + 1< height && marcadores[x + 1, y] == Pixel.corObj.R)
+                if (x + 1< width && marcadores[x + 1, y] == Pixel.corObj.R)
                 {
                     marcadores[x + 1, y] = atual;
                     pilhaX.Push(x + 1);
